@@ -11,10 +11,10 @@
     &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <br>
-  <a href="https://github.com/davi78/File-to-link-bot/stargazers">
+  <a href="https://github.com/davi78/File_link-multi_forcesubs/stargazers">
     <img src="https://img.shields.io/github/stars/davi78/File-to-link-bot?style=social">
   </a>
-  <a href="https://github.com/davi78/File-to-link-bot/fork">
+  <a href="https://github.com/davi78/File_link-multi_forcesubs/fork">
     <img src="https://img.shields.io/github/forks/davi78/File-to-link-bot?label=Fork&style=social">
   </a>  
 </p>
@@ -30,7 +30,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.....😇.
 ##
 ### Cara install
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/davi78/file)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/davi78/File_link-multi_forcesubs)</br>
 <a href="https://youtu.be/LCrkRTMkmzE">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
