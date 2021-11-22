@@ -11,12 +11,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
     data = query.data
     if data == "about":
         await query.message.edit_text(
-            text = f"<b>🥷 ᴘᴇᴍʙᴜᴀᴛ : <a href='tg://user?id={OWNER_ID}'>ᴏʀᴀɴɢ ɪɴɪ</a>\n🔗 ᴄʜᴀɴɴᴇʟ 𝟷 : <a href='{client.invitelink}'>ᴏʀᴀɴɢ ɪɴɪ</a>\n🔗 ᴄʜᴀɴɴᴇʟ 2 : <a href='{client.invitelink2}'>ᴏʀᴀɴɢ ɪɴɪ</a>\n🔗 ᴄʜᴀɴɴᴇʟ 3 : <a href='{client.invitelink3}'>ᴏʀᴀɴɢ ɪɴɪ</a>\n🔗 ᴄʜᴀɴɴᴇʟ 4 : <a href='{client.invitelink4}'>ᴏʀᴀɴɢ ɪɴɪ</a></b>",
+            text = f"<b>🥷 ᴘᴇᴍʙᴜᴀᴛ : <a href='tg://user?id={OWNER_ID}'>ᴏʀᴀɴɢ ɪɴɪ</a>\n🔗 ᴄʜᴀɴɴᴇʟ 𝟷 : <a href='{client.invitelink}'>ᴅɪsɪɴɪ</a>\n🔗 ᴄʜᴀɴɴᴇʟ 2 : <a href='{client.invitelink2}'>ᴅɪsɪɴɪ</a>\n🔗 ᴄʜᴀɴɴᴇʟ 3 : <a href='{client.invitelink3}'>ᴅɪsɪɴɪ</a>\n🔗 ᴄʜᴀɴɴᴇʟ 4 : <a href='{client.invitelink4}'>ᴅɪsɪɴɪ</a></b>",
             disable_web_page_preview = True,
             reply_markup = InlineKeyboardMarkup(
                 [
                     [
                         InlineKeyboardButton("🤖 ᴄʜᴀᴛ ʙᴏᴛ", url='t.me/chatsangek_bot')
+                    ],
+                    [
+                        InlineKeyboardButton("🤖 ᴄʜᴀᴛ ʙᴏᴛ", url='t.me/chatjomblohalu_bot')
                     ],
                     [
                         InlineKeyboardButton("🔒 ᴛᴜᴛᴜᴘ", callback_data = "close")
